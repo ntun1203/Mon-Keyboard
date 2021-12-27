@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>14.0.283.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName>D:\00.NyanTun USER\Users\Nyan\Downloads\keymandesktop90.msi</MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Version URL="">1.0</Version>
+    <Name URL="">Mon Unicode keyboard</Name>
+    <Copyright URL="">©Men3</Copyright>
+    <Author URL="mailto:nyanthun@gmail.com">NYAN HTAW</Author>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\Projects\mon_unicode_keyboard\build\mon_unicode_keyboard.kvk</Name>
+      <Description>File mon_unicode_keyboard.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>..\Projects\mon_unicode_keyboard\build\mon_unicode_keyboard.kmx</Name>
+      <Description>Keyboard Mon Unicode keyboard</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\Projects\mon_unicode_keyboard\build\mon_unicode_keyboard.js</Name>
+      <Description>File mon_unicode_keyboard.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Mon Unicode keyboard</Name>
+      <ID>mon_unicode_keyboard</ID>
+      <Version>1.0</Version>
+      <Languages>
+        <Language ID="mnw-Mymr">Mon (Myanmar)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
